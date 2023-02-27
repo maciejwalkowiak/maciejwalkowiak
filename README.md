@@ -22,6 +22,10 @@ We are working on version 3.0 of the project - complete rewrite based on AWS SDK
 
 **Just** is a command Line toolkit for developing **Spring Boot** applications. It **significantly speeds up the development** through advanced **live reload** capabilities and automatically provisioned infrastructure like databases or message queues
 
+## [WireMock Spring Boot](https://github.com/maciejwalkowiak/wiremock-spring-boot/)
+
+WireMock Spring Boot drastically simplifies testing HTTP clients in Spring Boot & Junit 5 based integration tests.
+
 ## Others
 
 I also made few OSS projects I find really cool:
